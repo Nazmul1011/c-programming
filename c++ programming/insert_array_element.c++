@@ -23,7 +23,7 @@ int main(){
     size++;
 
     cout<<"the new array after inserting is "<<endl;
-    for (i=0;i<size;i++)
+    for ( int i=0;i<size;i++)
     {
         cout<<a[i];
     }
